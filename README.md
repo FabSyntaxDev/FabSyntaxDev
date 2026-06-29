@@ -24,10 +24,18 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 
 ---
 
+## 🎓 Certificações & Aprendizado (Udemy)
+
+* ✔️ **Spring Boot Expert:** JPA, REST, JWT, OAuth2 com Docker e AWS *(Prof. Dougllas Sousa)*
+* ✔️ **Banco de Dados e Linguagem SQL** com PostgreSQL *(Prof. Jones Granatyr / IA Expert Academy)*
+* ✔️ **Git e GitHub** do básico ao avançado (c/ gist e GitHub Pages) *(Prof. Matheus Battisti / Hora de Codar)*
+
+---
+
 ## 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabSyntaxDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Fábio" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabSyntaxDev&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Fábio" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180em" />
 </p>
 
@@ -42,7 +50,7 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 
 ## 📫 Conecte-se Comigo
 
-Seja para trocar uma ideia sobre código, jogos ou novos projetos, sainte-se à vontade para entrar em contato:
+Seja para trocar uma ideia sobre código, jogos ou novos projetos, sinta-se à vontade para entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu-email@gmail.com])
