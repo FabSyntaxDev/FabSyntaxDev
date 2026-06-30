@@ -44,8 +44,8 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 ## 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabSyntaxDev&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Fábio" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FabSyntaxDev&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Fábio" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="180em" />
 </p>
 
 ---
