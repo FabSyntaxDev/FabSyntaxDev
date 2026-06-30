@@ -44,7 +44,7 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 ## 📈 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabSyntaxDev&theme=dracula" alt="Consistência no GitHub" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabSyntaxDev&theme=dracula" alt="Consistência no GitHub" height="195" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula&hide=html,css" alt="Linguagens mais usadas" height="165" />
 </p>
 
