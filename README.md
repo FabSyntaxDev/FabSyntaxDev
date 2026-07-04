@@ -44,9 +44,9 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 ## 📈 Minhas Estatísticas
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabSyntaxDev&theme=dracula" alt="Consistência no GitHub" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabSyntaxDev&theme=dracula&cache=1" alt="Consistência no GitHub" height="165" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula&cache=1" alt="Linguagens mais usadas" height="165" />
 </div>
 
 ---
@@ -60,7 +60,7 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 
 ## 📫 Conecte-se Comigo
 
-Seja para trocar uma ideia sobre código, jogos ou novos projetos, sinta-se à vontade para entrar em contato:
+Seja para trocar uma ideia sobre código, jogos ou novos projetos, sainte-se à vontade para entrar em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu-email@gmail.com])
