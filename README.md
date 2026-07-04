@@ -7,21 +7,20 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Backend, APIs & Banco de Dados
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-* 🧰 **Ecossistema & ORMs:** SQLAlchemy, Pydantic, Uvicorn, psycopg2, CORS integration.
+* 🧰 **Ecossistema & ORMs:** Entity Framework Core / LINQ, SQLAlchemy, Pydantic, Uvicorn, psycopg2, CORS integration.
 
 ### 🚀 DevOps, Infraestrutura & Deploy
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -35,7 +34,8 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 
 ## 🎓 Certificações & Aprendizado (Udemy)
 
-* ✔️ **Spring Boot Expert:** JPA, REST, JWT, OAuth2 com Docker e AWS *(Prof. Dougllas Sousa)*
+* ⏳ **C# COMPLETO Programação Orientada a Objetos + Projetos** *(Prof. Nelio Alves)* — *Em andamento*
+* ⏳ **.NET: um curso orientado para o mercado de trabalho** *(Prof. Welisson Arley)* — *Em andamento*
 * ✔️ **Banco de Dados e Linguagem SQL** com PostgreSQL *(Prof. Jones Granatyr / IA Expert Academy)*
 * ✔️ **Git e GitHub** do básico ao avançado (c/ gist e GitHub Pages) *(Prof. Matheus Battisti / Hora de Codar)*
 
@@ -53,7 +53,7 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 
 ## 🎯 Foco Atual
 * 🎓 Cursando Bacharelado em Engenharia de Software (Cruzeiro do Sul).
-* ⚙️ Aprofundando em ecossistemas de alta performance com Go, FastAPI e Spring Boot.
+* ⚙️ Dominando o ecossistema de alta performance do **.NET**, **C#** e cloud **Azure** voltado para o mercado de trabalho.
 * 🛡️ Praticando conceitos de segurança em bancos de dados (como RLS no Supabase) e padrões de acessibilidade web.
 
 ---
