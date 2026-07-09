@@ -45,7 +45,6 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabSyntaxDev&theme=dracula&cache=1" alt="Consistência no GitHub" height="165" />
-  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula&count_private=true&cache=1" alt="Linguagens mais usadas" height="165" />
   
 </div>
