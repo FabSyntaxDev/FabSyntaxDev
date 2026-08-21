@@ -17,8 +17,6 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-* 🧰 **Ecossistema & ORMs:** Entity Framework Core / LINQ, Prisma ORM, SQLAlchemy, Pydantic, Uvicorn, psycopg2, CORS integration.
-* 🗄️ **Modelagem de Dados:** Normalização, diagramas relacionais e estruturação profissional de bancos de dados.
 
 ### 🚀 DevOps, Infraestrutura & Deploy
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
