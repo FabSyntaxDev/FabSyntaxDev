@@ -15,7 +15,6 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 * 🧰 **Ecossistema & ORMs:** Entity Framework Core / LINQ, Prisma ORM, SQLAlchemy, Pydantic, Uvicorn, psycopg2, CORS integration.
