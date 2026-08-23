@@ -44,23 +44,11 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 * ⏳ **.NET: um curso orientado para o mercado de trabalho** *(Prof. Welisson Arley)* — *Em andamento*
 * ✔️ **Banco de Dados e Linguagem SQL** com PostgreSQL *(Prof. Jones Granatyr / IA Expert Academy)*
 * ✔️ **Git e GitHub** do básico ao avançado (c/ gist e GitHub Pages) *(Prof. Matheus Battisti / Hora de Codar)*
+* ✔️ **Projeto Fullstack do ZERO (React + Node + PostgreSQL + TS)** (Odair Michael Bendotti)
+* ✔️**Node.js: Introdução ao Desenvolvimento de APIs Modernas** (aprendamais.mec.gov.br)
 
 ---
 
-## 📈 Minhas Estatísticas
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=FabSyntaxDev&theme=dracula" alt="Consistência no GitHub" height="165" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabSyntaxDev&layout=compact&langs_count=7&theme=dracula&count_private=true" alt="Linguagens mais usadas" height="165" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🎯 Foco Atual
 * 🎓 Cursando Bacharelado em Engenharia de Software (Cruzeiro do Sul).
