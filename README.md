@@ -46,6 +46,7 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 * ✔️ **Git e GitHub** do básico ao avançado (c/ gist e GitHub Pages) *(Prof. Matheus Battisti / Hora de Codar)*
 * ✔️ **Projeto Fullstack do ZERO (React + Node + PostgreSQL + TS)** (Odair Michael Bendotti)
 * ✔️**Node.js: Introdução ao Desenvolvimento de APIs Modernas** (aprendamais.mec.gov.br)
+* ✔️**Programador de Sistemas** (CEMI - 200 horas)
 
 ---
 
