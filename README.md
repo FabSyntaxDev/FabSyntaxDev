@@ -37,7 +37,7 @@ Focado em construir aplicações robustas, seguras e escaláveis. Atualmente, es
 
 ---
 
-## 🎓 Certificações & Aprendizado (Udemy)
+## 🎓 Certificações & Aprendizado
 
 * ⏳ **C# COMPLETO Programação Orientada a Objetos + Projetos** *(Prof. Nelio Alves)* — *Em andamento*
 * ⏳ **.NET: um curso orientado para o mercado de trabalho** *(Prof. Welisson Arley)* — *Em andamento*
